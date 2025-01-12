@@ -10,23 +10,23 @@ Proje, kullanıcı deneyimini ön planda tutarak modern bir tasarım sunar. Dina
 
 ## Teknolojiler ve Kullanılan Araçlar
 
-🎯 **Microsoft SQL Server (MSSQL)**: Proje, güçlü ilişkisel veritabanı yönetim sistemi olan SQL Server ile veri yönetimini sağlar.
+✍️ HTML: Kullanıcı arayüzü için temel yapı HTML ile inşa edilmiştir.
 
-💢 **ASP.NET MVC**: Uygulama, Model-View-Controller mimarisiyle geliştirilmiştir. Bu yapı, uygulamanın düzenini ve bakımını kolaylaştırır.
+⚔️ CSS: Modern ve şık bir tasarım sağlamak için CSS kullanılmıştır.
 
-📖 **Entity Framework**: Veritabanı işlemleri için kullanılan ORM (Object Relational Mapping) aracıdır. Bu teknoloji sayesinde veritabanı ve uygulama arasındaki etkileşim nesne tabanlı hale gelir.
+📑 Bootstrap: Mobil uyumlu, responsive ve şık bir tasarım için Bootstrap framework’ü tercih edilmiştir.
 
-💥 **Layout Kontrolü**: Sayfa düzeni, modern ve kullanıcı dostu bir deneyim için optimize edilmiştir.
+💥 Layout Kontrolü: Sayfa düzeni, modern ve kullanıcı dostu bir deneyim için optimize edilmiştir.
 
-🏹 **Db First Yaklaşımı**: Entity Framework kullanılarak, veritabanı ilk olarak oluşturulup daha sonra modelle entegre edilmiştir.
+💢 ASP.NET MVC: Uygulama, Model-View-Controller mimarisiyle geliştirilmiştir. Bu yapı, uygulamanın düzenini ve bakımını kolaylaştırır.
 
-🔖 **CRUD İşlemleri**: Admin paneli aracılığıyla portföy üzerindeki veriler üzerinde ekleme, okuma, güncelleme ve silme işlemleri yapılabilir.
+📖 Entity Framework: Veritabanı işlemleri için kullanılan ORM (Object Relational Mapping) aracıdır. Bu teknoloji sayesinde veritabanı ve uygulama arasındaki etkileşim nesne tabanlı hale gelir.
 
-✍️ **HTML**: Kullanıcı arayüzü için temel yapı HTML ile inşa edilmiştir.
+🏹 Db First Yaklaşımı: Entity Framework kullanılarak, veritabanı ilk olarak oluşturulup daha sonra modelle entegre edilmiştir.
 
-⚔️ **CSS**: Modern ve şık bir tasarım sağlamak için CSS kullanılmıştır.
+🔖 CRUD İşlemleri: Admin paneli aracılığıyla portföy üzerindeki veriler üzerinde ekleme, okuma, güncelleme ve silme işlemleri yapılabilir.
 
-📑 **Bootstrap**: Mobil uyumlu, responsive ve şık bir tasarım için Bootstrap framework’ü tercih edilmiştir.
+🎯 Microsoft SQL Server (MSSQL): Proje, güçlü ilişkisel veritabanı yönetim sistemi olan SQL Server ile veri yönetimini sağlar.
 
 ---
 

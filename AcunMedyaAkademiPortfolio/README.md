@@ -30,7 +30,7 @@ Proje, kullanıcı deneyimini ön planda tutarak modern bir tasarım sunar. Dina
 
 ---
 
-## Projemden Bazı Kesitler 
+## Projemden Bazı Kesitler  
 
 Aşağıda, projemden bazı kesitler yer almaktadır:
 

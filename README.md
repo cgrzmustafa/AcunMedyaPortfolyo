@@ -36,27 +36,27 @@ Aşağıda, projemden bazı kesitler yer almaktadır:
 
 ### Admin Panel Görseli
 
-![Admin Panel Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin1.png)  
+![Admin Panel Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin7.png)  
 *Admin panelinin ekran görüntüsü.*
 
 ### Kullanıcı Arayüzü
 
-![Kullanıcı Arayüzü Görseli](Images/admin1.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin1.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
-![Kullanıcı Arayüzü Görseli](Images/admin2.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin2.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
-![Kullanıcı Arayüzü Görseli](Images/admin3.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin3.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
-![Kullanıcı Arayüzü Görseli](Images/admin4.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin4.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
-![Kullanıcı Arayüzü Görseli](Images/admin5.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin5.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
-![Kullanıcı Arayüzü Görseli](Images/admin6.png)  
+![Kullanıcı Arayüzü Görseli](https://github.com/cgrzmustafa/AcunMedyaPortfolyo/blob/master/admin6.png)  
 *Kullanıcı arayüzüne ait şık bir ekran görüntüsü.*
 
 ---

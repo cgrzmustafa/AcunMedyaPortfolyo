@@ -1,0 +1,64 @@
+﻿@model List<AcunMedyaAkademiPortfolio.Models.TblService>
+
+<div id="services" class="section lb">
+    <div class="container">
+        <div class="section-title text-left">
+            <h3>Hizmetlerim</h3>
+            <p>Modern ve kullanıcı dostu web uygulamaları geliştiriyorum. Tasarımdan fonksiyonelliğe kadar tüm süreçlerde deneyimliyim ve projelerimde JavaScript, Node.js ve .NET MVC gibi teknolojilerle çalışarak etkili çözümler sunuyorum.</p>
+        </div><!-- end title -->
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="services-inner-box">
+                        <div class="ser-icon">
+                            @if (item.Title == "Web Geliştirme")
+                            {
+                                <i class="fas fa-laptop-code"></i> 
+                            }
+                            else if (item.Title == "Grafik Tasarımı")
+                            {
+                                <i class="fas fa-paint-brush"></i> 
+                            }
+                            else if (item.Title == "Destek")
+                            {
+                                <i class="fas fa-headset"></i> 
+                            }
+                            else if (item.Title == "Dijital Pazarlama")
+                            {
+                            <i class="fas fa-bullhorn"></i> 
+                            }
+                            else if (item.Title == "Veri Analitiği ve Raporlama")
+                            {
+                            <i class="fas fa-chart-line"></i> 
+                            }
+                            else if (item.Title == "Web Güvenliği")
+                            {
+                            <i class="fas fa-shield-alt"></i> 
+                            }
+                            else
+                            {
+                            <i class="fas fa-cogs"></i> 
+                            }
+                        </div>
+                        <h2>@item.Title</h2>
+                        <p>@item.Description</p>
+                    </div>
+                </div><!-- end col -->
+            }
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

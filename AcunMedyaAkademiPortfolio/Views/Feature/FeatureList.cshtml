@@ -1,0 +1,35 @@
+﻿@model List<AcunMedyaAkademiPortfolio.Models.TblFeature>
+@{
+    ViewBag.Title = "FeatureList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Kullanıcı Özellik Listesi</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Kullanıcı Özellik Id</th>
+        <th>Kullanıcı Adı Soyadı</th>
+        <th>Özellik Açıklaması</th>
+        <th>Proje İsmi</th>
+        <th>Resim</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.FeatureID</td>
+            <td>@item.NameSurname</td>
+            <td>@item.Description</td>
+            <td>@item.ProjectName</td>
+            <td>@item.Image</td>
+
+            <td><a href="/About/DeleteAbout/@item.FeatureID" class="btn btn-danger">Sil</a></td>
+            <td><a href="#" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+
+</table>
+
+<a href="/Feature/CreateFeature/" class="btn btn-primary">Yeni Özellik Girişi</a>

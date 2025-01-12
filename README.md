@@ -36,7 +36,7 @@ Aşağıda, projemden bazı kesitler yer almaktadır:
 
 ### Admin Panel Görseli
 
-![Admin Panel Görseli](Images/admin7.png)  
+![Admin Panel Görseli](https://i.hizliresim.com/9ku4nul.png)  
 *Admin panelinin ekran görüntüsü.*
 
 ### Kullanıcı Arayüzü
